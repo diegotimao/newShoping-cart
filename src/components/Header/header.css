@@ -1,0 +1,43 @@
+
+.header-container {
+    width: 100%;
+    height: 70px;
+    background: yellow;
+}
+
+.header-content {
+    max-width: 1020px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image-logo {
+    width: 70px;
+}
+
+.actions-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.quantity-cart {
+    display: flex;
+    flex-direction: column;
+    line-height: 18px;
+}
+
+.quantity-cart p {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.user-avatar {
+    width: 30px;
+}
+
+.cart-icon {
+    width: 30px;
+}
