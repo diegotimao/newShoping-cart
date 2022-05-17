@@ -3,7 +3,7 @@
 O New Shoping Cart, foi desenvolvido com o intuito de promover a prática dos meus conhecimento, referente ao curso de Desenvolvimento de Software na trybe, no módulo de Front-End, é uma loja online, consuminod e renderizando produtos buscado pela API do (Mercado Livre). Para isto foi ultilizado reactjs, react-redux, javascript, css e html.
 
 <h4 align="center"> 
-	🚧  Pixels Art 🚀 Concluído  🚧
+	🚧  New Shoping Cart 🚀 Em adamento  🚧
 </h4>
 
 ### :hotsprings: Habilidades 
