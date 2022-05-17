@@ -19,7 +19,6 @@ class Header extends React.Component {
             </div>
             <img src={ CartIcon } alt="Cart-icon" className="cart-icon"/>
           </div>
-
         </div>
       </div>
     )
