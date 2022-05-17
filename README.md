@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# New Shoping Cart 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O New Shoping Cart, foi desenvolvido com o intuito de promover a prática dos meus conhecimento, referente ao curso de Desenvolvimento de Software na trybe, no módulo de Front-End, é uma loja online, consuminod e renderizando produtos buscado pela API do (Mercado Livre). Para isto foi ultilizado reactjs, react-redux, javascript, css e html.
 
-## Available Scripts
+<h4 align="center"> 
+	🚧  Pixels Art 🚀 Concluído  🚧
+</h4>
 
-In the project directory, you can run:
+### :hotsprings: Habilidades 
 
-### `npm start`
+As seguintes habilidades foram ultilizadas na construção do projeto:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Manipulação CSS
+- Manipulação HTML
+- Manipulação JavaScript
+- ReactJs 
+- Redux-react 
+- React-router-dom (versão 5)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### 🛠 Tecnologias
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-### `npm run build`
+- [Html](https://htmlreference.io/)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/javascript)
+- [ReactJs](https://pt-br.reactjs.org/)
+- [React-redux](https://redux.js.org/)
+- [React-router-dom]()
+- [Vscode](https://code.visualstudio.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### :dart: Principais ações
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [x] Faz chamada a Api do Mercado Livre
+- [x] Renderiza produtos
+- [ ] Adiciona produtos ao carrinhos
+- [ ] Remove produtos do carrinho
+- [ ] Calcula valor total do items do carrinho
 
-### `npm run eject`
+<!-- ### :movie_camera: Demonstração projeto pronto
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h1 align="center" >
+  <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-cor.png" />
+    <br>
+    <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-color2.png" />  
+    <br>
+    <img alt="PixelsArt" title="#PixelsArt" src="./assets/palet-color1.png" />
+</h1> -->
