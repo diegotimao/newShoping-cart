@@ -1,6 +1,6 @@
 # New Shoping Cart 
 
-O New Shoping Cart, foi desenvolvido com o intuito de promover a prática dos meus conhecimento, referente ao curso de Desenvolvimento de Software na trybe, no módulo de Front-End, é uma loja online, consuminod e renderizando produtos buscado pela API do (Mercado Livre).
+O New Shoping Cart, foi desenvolvido com o intuito de promover a prática dos meus conhecimento, referente ao curso de Desenvolvimento de Software na trybe, no módulo de Front-End, é uma loja online, consumindo e renderizando produtos buscado pela API do (Mercado Livre).
 
 <h4 align="center"> 
 	🚧  New Shoping Cart 🚀 Em adamento  🚧
